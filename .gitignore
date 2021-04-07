@@ -12,3 +12,4 @@ buildNumber.properties
 
 # Compiled class file
 *.class
+/bin/
